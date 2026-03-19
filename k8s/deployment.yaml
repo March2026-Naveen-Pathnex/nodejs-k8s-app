@@ -1,7 +1,7 @@
 spec:
   containers:
   - name: node-app
-    image: naveensingh/node-app:latest  # YOUR REAL IMAGE
+    image: naren5464/node-app:latest  # YOUR REAL IMAGE
     ports:
     - containerPort: 3000
     resources:
